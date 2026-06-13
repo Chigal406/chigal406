@@ -1,2 +1,1 @@
-chigal406
-Public repository 
+Hi there 👋 
